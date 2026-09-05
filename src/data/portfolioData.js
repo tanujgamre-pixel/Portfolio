@@ -11,7 +11,7 @@ export const portfolioData = {
     status: "Exploring AI/ML & Software Opportunities",
     links: {
       linkedin: "https://www.linkedin.com/in/tanuj-gamare-b95a4334a",
-      github: "https://github.com/",
+      github: "https://github.com/tanujgamare-pixel",
       email: "tanujgamare@gmail.com",
       phone: "+91 9137798015"
     }
